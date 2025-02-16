@@ -1,0 +1,1018 @@
+
+     Program PWSCF v.6.4 starts on 19Oct2021 at 19:11:47 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Parallel version (MPI), running on    40 processors
+
+     MPI processes distributed on     1 nodes
+     R & G space division:  proc/nbgrp/npool/nimage =      40
+     Waiting for input...
+     Reading input from standard input
+Warning: card    &IONS ignored
+Warning: card      ION_DYNAMICS = 'BFGS' ignored
+Warning: card   / ignored
+Warning: card    &CELL ignored
+Warning: card      CELL_DYNAMICS = 'BFGS', ignored
+Warning: card    / ignored
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine  card_atomic_species (59):
+     cannot read atomic specie from: K_POINTS {gamma}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+     Program PWSCF v.6.4 starts on 20Oct2021 at 11:12:49 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Parallel version (MPI), running on    40 processors
+
+     MPI processes distributed on     1 nodes
+     R & G space division:  proc/nbgrp/npool/nimage =      40
+     Waiting for input...
+     Reading input from standard input
+Warning: card    &IONS ignored
+Warning: card      ION_DYNAMICS = 'BFGS' ignored
+Warning: card   / ignored
+Warning: card    &CELL ignored
+Warning: card      CELL_DYNAMICS = 'BFGS', ignored
+Warning: card    / ignored
+
+     Current dimensions of program PWSCF are:
+     Max number of different atomic species (ntypx) = 10
+     Max number of k-points (npk) =  40000
+     Max angular momentum in pseudopotentials (lmaxx) =  3
+
+     gamma-point specific algorithms are used
+
+     Subspace diagonalization in iterative solution of the eigenvalue problem:
+     one sub-group per band group will be used
+     scalapack distributed-memory algorithm (size of sub-group:  4*  4 procs)
+
+ 
+     Parallelization info
+     --------------------
+     sticks:   dense  smooth     PW     G-vecs:    dense   smooth      PW
+     Min        1311     656    163               200727    70972    8864
+     Max        1314     658    166               200734    70980    8880
+     Sum       52501   26265   6561              8029153  2839035  354957
+ 
+
+
+     bravais-lattice index     =            0
+     lattice parameter (alat)  =      41.8925  a.u.
+     unit-cell volume          =   69611.8580 (a.u.)^3
+     number of atoms/cell      =           33
+     number of atomic types    =            2
+     number of electrons       =       198.00
+     number of Kohn-Sham states=          119
+     kinetic-energy cutoff     =      45.0000  Ry
+     charge density cutoff     =     360.0000  Ry
+     convergence threshold     =      1.0E-06
+     mixing beta               =       0.7000
+     number of iterations used =            8  local-TF  mixing
+     Exchange-correlation      = SLA PW GGX GGC ( 1  4  2  2 0 0)
+
+     celldm(1)=  41.892485  celldm(2)=   0.000000  celldm(3)=   0.000000
+     celldm(4)=   0.000000  celldm(5)=   0.000000  celldm(6)=   0.000000
+
+     crystal axes: (cart. coord. in units of alat)
+               a(1) = (   1.000000   0.000000   0.000000 )  
+               a(2) = (   0.000000   1.044297   0.000000 )  
+               a(3) = (   0.000000   0.000000   0.906673 )  
+
+     reciprocal axes: (cart. coord. in units 2 pi/alat)
+               b(1) = (  1.000000  0.000000  0.000000 )  
+               b(2) = (  0.000000  0.957582  0.000000 )  
+               b(3) = (  0.000000  0.000000  1.102933 )  
+
+
+     PseudoPot. # 1 for Mo read from file:
+     ~/pseudo/Mo.pw91-n-van.UPF
+     MD5 check sum: Not computed, couldn't open file
+     Pseudo is Ultrasoft + core correction, Zval =  6.0
+     Generated by new atomic code, or converted to UPF format
+     Using radial grid of  965 points,  3 beta functions with: 
+                l(1) =   1
+                l(2) =   2
+                l(3) =   2
+     Q(r) pseudized with  8 coefficients,  rinner =    1.000   1.000   1.000
+                                                       1.200   1.200
+
+     PseudoPot. # 2 for S  read from file:
+     ~/pseudo/S.pw91-van_ak.UPF
+     MD5 check sum: Not computed, couldn't open file
+     Pseudo is Ultrasoft, Zval =  6.0
+     Generated by new atomic code, or converted to UPF format
+     Using radial grid of  811 points,  6 beta functions with: 
+                l(1) =   0
+                l(2) =   0
+                l(3) =   1
+                l(4) =   1
+                l(5) =   2
+                l(6) =   2
+     Q(r) pseudized with  8 coefficients,  rinner =    1.100   1.100   1.100
+                                                       1.100   1.100
+
+     atomic species   valence    mass     pseudopotential
+        Mo             6.00    95.50000     Mo( 1.00)
+        S              6.00    32.06500     S ( 1.00)
+
+     No symmetry found
+
+
+
+   Cartesian axes
+
+     site n.     atom                  positions (alat units)
+         1           Mo  tau(   1) = (   0.5275780   0.4689199   0.4848118  )
+         2           Mo  tau(   2) = (   0.4485639   0.5296277   0.5844840  )
+         3           Mo  tau(   3) = (   0.4813316   0.6060745   0.3235359  )
+         4           Mo  tau(   4) = (   0.5541355   0.5894403   0.5180326  )
+         5           Mo  tau(   5) = (   0.4131619   0.6914508   0.4022265  )
+         6           Mo  tau(   6) = (   0.5071436   0.3540417   0.4258397  )
+         7           Mo  tau(   7) = (   0.6431901   0.6835708   0.5376476  )
+         8           Mo  tau(   8) = (   0.6525100   0.5613481   0.6004208  )
+         9           Mo  tau(   9) = (   0.3476309   0.5738834   0.4921333  )
+        10           Mo  tau(  10) = (   0.4576642   0.4658270   0.3773636  )
+        11           Mo  tau(  11) = (   0.5178320   0.6740600   0.4394415  )
+        12           S   tau(  12) = (   0.3199755   0.6671120   0.4460979  )
+        13           S   tau(  13) = (   0.5449891   0.5673635   0.4080813  )
+        14           S   tau(  14) = (   0.6184160   0.4782276   0.5394690  )
+        15           S   tau(  15) = (   0.4095094   0.3741074   0.3909708  )
+        16           S   tau(  16) = (   0.6621032   0.5911230   0.4952491  )
+        17           S   tau(  17) = (   0.5419284   0.6951264   0.5465289  )
+        18           S   tau(  18) = (   0.4120840   0.6838643   0.2995221  )
+        19           S   tau(  19) = (   0.4463331   0.6270411   0.5022192  )
+        20           S   tau(  20) = (   0.3517474   0.5744248   0.5956436  )
+        21           S   tau(  21) = (   0.4325841   0.5161478   0.2892165  )
+        22           S   tau(  22) = (   0.5406401   0.5678700   0.6259130  )
+        23           S   tau(  23) = (   0.5597637   0.6313655   0.2706537  )
+        24           S   tau(  24) = (   0.4202708   0.4917053   0.4724596  )
+        25           S   tau(  25) = (   0.4400506   0.4405178   0.6236285  )
+        26           S   tau(  26) = (   0.4752019   0.7736436   0.4304769  )
+        27           S   tau(  27) = (   0.6628316   0.7565374   0.4746337  )
+        28           S   tau(  28) = (   0.2706537   0.5177937   0.4670062  )
+        29           S   tau(  29) = (   0.5560174   0.2706537   0.4090110  )
+        30           S   tau(  30) = (   0.5589036   0.4347275   0.3860900  )
+        31           S   tau(  31) = (   0.6671179   0.6652014   0.6350978  )
+        32           S   tau(  32) = (   0.5133805   0.3716192   0.5268299  )
+        33           S   tau(  33) = (   0.7293463   0.5113457   0.6360194  )
+
+     number of k points=     1  Marzari-Vanderbilt smearing, width (Ry)=  0.0200
+                       cart. coord. in units 2pi/alat
+        k(    1) = (   0.0000000   0.0000000   0.0000000), wk =   2.0000000
+
+     Dense  grid:  4014577 G-vectors     FFT dimensions: ( 256, 270, 240)
+
+     Smooth grid:  1419518 G-vectors     FFT dimensions: ( 180, 192, 180)
+
+     Estimated max dynamical RAM per process >     571.87 MB
+
+     Estimated total dynamical RAM >      22.34 GB
+
+     Initial potential from superposition of free atoms
+
+     starting charge  197.98265, renormalised to  198.00000
+
+     negative rho (up, down):  9.959E-03 0.000E+00
+     Starting wfcs are  187 randomized atomic wfcs
+
+     total cpu time spent up to now is       14.8 secs
+
+     Self-consistent Calculation
+
+     iteration #  1     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  1.00E-02,  avg # of iterations =  2.0
+
+     negative rho (up, down):  1.617E-02 0.000E+00
+
+     total cpu time spent up to now is       33.2 secs
+
+     total energy              =    -771.48271054 Ry
+     Harris-Foulkes estimate   =    -774.84090272 Ry
+     estimated scf accuracy    <       8.27145864 Ry
+
+     iteration #  2     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  4.18E-03,  avg # of iterations =  3.0
+
+     negative rho (up, down):  9.350E-03 0.000E+00
+
+     total cpu time spent up to now is       49.8 secs
+
+     total energy              =    -772.70321392 Ry
+     Harris-Foulkes estimate   =    -774.08403084 Ry
+     estimated scf accuracy    <       7.09343340 Ry
+
+     iteration #  3     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  3.58E-03,  avg # of iterations =  1.0
+
+     negative rho (up, down):  7.594E-03 0.000E+00
+
+     total cpu time spent up to now is       64.3 secs
+
+     total energy              =    -773.31999766 Ry
+     Harris-Foulkes estimate   =    -773.42203011 Ry
+     estimated scf accuracy    <       0.67994034 Ry
+
+     iteration #  4     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  3.43E-04,  avg # of iterations =  3.0
+
+     negative rho (up, down):  6.271E-03 0.000E+00
+
+     total cpu time spent up to now is       80.7 secs
+
+     total energy              =    -773.42085677 Ry
+     Harris-Foulkes estimate   =    -773.46941305 Ry
+     estimated scf accuracy    <       0.18940057 Ry
+
+     iteration #  5     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  9.57E-05,  avg # of iterations =  2.0
+
+     negative rho (up, down):  5.781E-03 0.000E+00
+
+     total cpu time spent up to now is       95.6 secs
+
+     total energy              =    -773.42861575 Ry
+     Harris-Foulkes estimate   =    -773.44309021 Ry
+     estimated scf accuracy    <       0.05593575 Ry
+
+     iteration #  6     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  2.83E-05,  avg # of iterations = 11.0
+
+     negative rho (up, down):  5.506E-03 0.000E+00
+
+     total cpu time spent up to now is      113.1 secs
+
+     total energy              =    -773.43364001 Ry
+     Harris-Foulkes estimate   =    -773.44140218 Ry
+     estimated scf accuracy    <       0.06908647 Ry
+
+     iteration #  7     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  2.83E-05,  avg # of iterations =  1.0
+
+     negative rho (up, down):  4.981E-03 0.000E+00
+
+     total cpu time spent up to now is      127.8 secs
+
+     total energy              =    -773.42912510 Ry
+     Harris-Foulkes estimate   =    -773.43601759 Ry
+     estimated scf accuracy    <       0.03080285 Ry
+
+     iteration #  8     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  1.56E-05,  avg # of iterations =  2.0
+
+     negative rho (up, down):  4.795E-03 0.000E+00
+
+     total cpu time spent up to now is      142.6 secs
+
+     total energy              =    -773.42811172 Ry
+     Harris-Foulkes estimate   =    -773.43117865 Ry
+     estimated scf accuracy    <       0.01131383 Ry
+
+     iteration #  9     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  5.71E-06,  avg # of iterations = 11.0
+
+     negative rho (up, down):  4.955E-03 0.000E+00
+
+     total cpu time spent up to now is      159.7 secs
+
+     total energy              =    -773.42722573 Ry
+     Harris-Foulkes estimate   =    -773.42948042 Ry
+     estimated scf accuracy    <       0.00914250 Ry
+
+     iteration # 10     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  4.62E-06,  avg # of iterations =  2.0
+
+     negative rho (up, down):  5.330E-03 0.000E+00
+
+     total cpu time spent up to now is      174.4 secs
+
+     total energy              =    -773.42838214 Ry
+     Harris-Foulkes estimate   =    -773.42787100 Ry
+     estimated scf accuracy    <       0.00436465 Ry
+
+     iteration # 11     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  2.20E-06,  avg # of iterations =  4.0
+
+     negative rho (up, down):  5.639E-03 0.000E+00
+
+     total cpu time spent up to now is      189.8 secs
+
+     total energy              =    -773.42931131 Ry
+     Harris-Foulkes estimate   =    -773.42891226 Ry
+     estimated scf accuracy    <       0.00513232 Ry
+
+     iteration # 12     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  2.20E-06,  avg # of iterations =  3.0
+
+     negative rho (up, down):  1.268E-02 0.000E+00
+
+     total cpu time spent up to now is      204.8 secs
+
+     total energy              =    -773.43021641 Ry
+     Harris-Foulkes estimate   =    -773.42960696 Ry
+     estimated scf accuracy    <       0.00253889 Ry
+
+     iteration # 13     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  1.28E-06,  avg # of iterations =  3.0
+
+     negative rho (up, down):  4.418E-02 0.000E+00
+
+     total cpu time spent up to now is      220.1 secs
+
+     total energy              =    -773.43177558 Ry
+     Harris-Foulkes estimate   =    -773.43036802 Ry
+     estimated scf accuracy    <       0.00181143 Ry
+
+     iteration # 14     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  9.15E-07,  avg # of iterations =  2.0
+
+     negative rho (up, down):  6.495E-02 0.000E+00
+
+     total cpu time spent up to now is      235.2 secs
+
+     total energy              =    -773.43341708 Ry
+     Harris-Foulkes estimate   =    -773.43184330 Ry
+     estimated scf accuracy    <       0.00120900 Ry
+
+     iteration # 15     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  6.11E-07,  avg # of iterations =  1.0
+
+     negative rho (up, down):  7.259E-02 0.000E+00
+
+     total cpu time spent up to now is      250.2 secs
+
+     total energy              =    -773.43435066 Ry
+     Harris-Foulkes estimate   =    -773.43347406 Ry
+     estimated scf accuracy    <       0.00102937 Ry
+
+     iteration # 16     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  5.20E-07,  avg # of iterations =  1.0
+
+     negative rho (up, down):  6.663E-02 0.000E+00
+
+     total cpu time spent up to now is      265.1 secs
+
+     total energy              =    -773.43435948 Ry
+     Harris-Foulkes estimate   =    -773.43439735 Ry
+     estimated scf accuracy    <       0.00061885 Ry
+
+     iteration # 17     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  3.13E-07,  avg # of iterations =  2.0
+
+     negative rho (up, down):  7.407E-02 0.000E+00
+
+     total cpu time spent up to now is      281.1 secs
+
+     total energy              =    -773.43455963 Ry
+     Harris-Foulkes estimate   =    -773.43441639 Ry
+     estimated scf accuracy    <       0.00046968 Ry
+
+     iteration # 18     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  2.37E-07,  avg # of iterations =  1.0
+
+     negative rho (up, down):  6.939E-02 0.000E+00
+
+     total cpu time spent up to now is      295.8 secs
+
+     total energy              =    -773.43438986 Ry
+     Harris-Foulkes estimate   =    -773.43458312 Ry
+     estimated scf accuracy    <       0.00035057 Ry
+
+     iteration # 19     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  1.77E-07,  avg # of iterations =  1.0
+
+     negative rho (up, down):  5.691E-02 0.000E+00
+
+     total cpu time spent up to now is      310.5 secs
+
+     total energy              =    -773.43419037 Ry
+     Harris-Foulkes estimate   =    -773.43440421 Ry
+     estimated scf accuracy    <       0.00026097 Ry
+
+     iteration # 20     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  1.32E-07,  avg # of iterations =  2.0
+
+     negative rho (up, down):  5.337E-02 0.000E+00
+
+     total cpu time spent up to now is      325.3 secs
+
+     total energy              =    -773.43421242 Ry
+     Harris-Foulkes estimate   =    -773.43420599 Ry
+     estimated scf accuracy    <       0.00016303 Ry
+
+     iteration # 21     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  8.23E-08,  avg # of iterations =  1.0
+
+     negative rho (up, down):  4.620E-02 0.000E+00
+
+     total cpu time spent up to now is      340.0 secs
+
+     total energy              =    -773.43417077 Ry
+     Harris-Foulkes estimate   =    -773.43421964 Ry
+     estimated scf accuracy    <       0.00012752 Ry
+
+     iteration # 22     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  6.44E-08,  avg # of iterations =  1.0
+
+     negative rho (up, down):  3.944E-02 0.000E+00
+
+     total cpu time spent up to now is      354.6 secs
+
+     total energy              =    -773.43417901 Ry
+     Harris-Foulkes estimate   =    -773.43417605 Ry
+     estimated scf accuracy    <       0.00009526 Ry
+
+     iteration # 23     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  4.81E-08,  avg # of iterations =  1.0
+
+     negative rho (up, down):  3.264E-02 0.000E+00
+
+     total cpu time spent up to now is      369.2 secs
+
+     total energy              =    -773.43414424 Ry
+     Harris-Foulkes estimate   =    -773.43418231 Ry
+     estimated scf accuracy    <       0.00006762 Ry
+
+     iteration # 24     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  3.42E-08,  avg # of iterations =  1.0
+
+     negative rho (up, down):  2.792E-02 0.000E+00
+
+     total cpu time spent up to now is      383.8 secs
+
+     total energy              =    -773.43415433 Ry
+     Harris-Foulkes estimate   =    -773.43414748 Ry
+     estimated scf accuracy    <       0.00006052 Ry
+
+     iteration # 25     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  3.06E-08,  avg # of iterations =  1.0
+
+     negative rho (up, down):  2.382E-02 0.000E+00
+
+     total cpu time spent up to now is      398.4 secs
+
+     total energy              =    -773.43414927 Ry
+     Harris-Foulkes estimate   =    -773.43415708 Ry
+     estimated scf accuracy    <       0.00003066 Ry
+
+     iteration # 26     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  1.55E-08,  avg # of iterations =  1.0
+
+     negative rho (up, down):  2.003E-02 0.000E+00
+
+     total cpu time spent up to now is      413.0 secs
+
+     total energy              =    -773.43417751 Ry
+     Harris-Foulkes estimate   =    -773.43415027 Ry
+     estimated scf accuracy    <       0.00002114 Ry
+
+     iteration # 27     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  1.07E-08,  avg # of iterations =  2.0
+
+     negative rho (up, down):  1.810E-02 0.000E+00
+
+     total cpu time spent up to now is      427.9 secs
+
+     total energy              =    -773.43418361 Ry
+     Harris-Foulkes estimate   =    -773.43417904 Ry
+     estimated scf accuracy    <       0.00001389 Ry
+
+     iteration # 28     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  7.01E-09,  avg # of iterations =  1.0
+
+     negative rho (up, down):  1.721E-02 0.000E+00
+
+     total cpu time spent up to now is      442.6 secs
+
+     total energy              =    -773.43419910 Ry
+     Harris-Foulkes estimate   =    -773.43418433 Ry
+     estimated scf accuracy    <       0.00001006 Ry
+
+     iteration # 29     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  5.08E-09,  avg # of iterations =  2.0
+
+     negative rho (up, down):  1.713E-02 0.000E+00
+
+     total cpu time spent up to now is      457.6 secs
+
+     total energy              =    -773.43421181 Ry
+     Harris-Foulkes estimate   =    -773.43419983 Ry
+     estimated scf accuracy    <       0.00000671 Ry
+
+     iteration # 30     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  3.39E-09,  avg # of iterations =  2.0
+
+     negative rho (up, down):  1.618E-02 0.000E+00
+
+     total cpu time spent up to now is      472.2 secs
+
+     total energy              =    -773.43421276 Ry
+     Harris-Foulkes estimate   =    -773.43421222 Ry
+     estimated scf accuracy    <       0.00000431 Ry
+
+     iteration # 31     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  2.17E-09,  avg # of iterations =  1.0
+
+     negative rho (up, down):  1.497E-02 0.000E+00
+
+     total cpu time spent up to now is      486.6 secs
+
+     total energy              =    -773.43421055 Ry
+     Harris-Foulkes estimate   =    -773.43421290 Ry
+     estimated scf accuracy    <       0.00000278 Ry
+
+     iteration # 32     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  1.40E-09,  avg # of iterations =  2.0
+
+     negative rho (up, down):  1.477E-02 0.000E+00
+
+     total cpu time spent up to now is      501.2 secs
+
+     total energy              =    -773.43421172 Ry
+     Harris-Foulkes estimate   =    -773.43421072 Ry
+     estimated scf accuracy    <       0.00000219 Ry
+
+     iteration # 33     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  1.10E-09,  avg # of iterations =  1.0
+
+     negative rho (up, down):  1.411E-02 0.000E+00
+
+     total cpu time spent up to now is      515.7 secs
+
+     total energy              =    -773.43420759 Ry
+     Harris-Foulkes estimate   =    -773.43421180 Ry
+     estimated scf accuracy    <       0.00000131 Ry
+
+     iteration # 34     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  6.63E-10,  avg # of iterations =  2.0
+
+     negative rho (up, down):  1.391E-02 0.000E+00
+
+     total cpu time spent up to now is      530.3 secs
+
+     total energy              =    -773.43420399 Ry
+     Harris-Foulkes estimate   =    -773.43420766 Ry
+     estimated scf accuracy    <       0.00000107 Ry
+
+     iteration # 35     ecut=    45.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  5.41E-10,  avg # of iterations =  1.0
+
+     negative rho (up, down):  1.360E-02 0.000E+00
+
+     total cpu time spent up to now is      543.7 secs
+
+     End of self-consistent calculation
+
+          k = 0.0000 0.0000 0.0000 (177479 PWs)   bands (ev):
+
+   -18.9387 -18.3730 -18.3562 -18.1523 -17.8120 -17.7202 -17.6441 -17.4246
+   -17.3679 -17.2877 -17.2145 -17.1764 -17.1288 -17.1066 -17.0357 -16.8737
+   -16.7864 -16.6813 -16.5604 -16.5387 -16.4569 -16.0047 -10.8683 -10.6034
+   -10.4243 -10.2103 -10.1272 -10.0686  -9.9228  -9.6970  -9.6275  -9.5009
+    -9.4188  -9.3245  -9.2685  -9.1434  -9.0804  -8.9311  -8.9120  -8.8651
+    -8.8009  -8.7522  -8.7362  -8.6730  -8.6489  -8.5914  -8.5327  -8.4595
+    -8.4232  -8.3509  -8.3360  -8.2544  -8.1924  -8.1666  -8.1522  -8.1050
+    -8.0334  -8.0105  -7.9473  -7.8916  -7.7383  -7.7193  -7.6781  -7.6355
+    -7.6137  -7.4993  -7.4412  -7.4179  -7.3125  -7.2804  -7.2125  -7.0958
+    -7.0154  -7.0001  -6.9132  -6.8675  -6.8274  -6.7658  -6.7148  -6.6654
+    -6.5752  -6.4320  -6.3847  -6.3086  -6.2577  -6.2206  -6.1314  -6.0809
+    -6.0579  -5.9116  -5.8942  -5.7515  -5.5339  -5.4566  -5.2148  -5.0901
+    -4.9651  -4.9029  -4.6600  -4.6200  -4.5032  -4.4647  -4.3133  -4.2092
+    -4.0642  -4.0428  -3.8854  -3.8435  -3.8202  -3.7750  -3.7336  -3.6244
+    -3.5836  -3.5100  -3.4684  -3.3476  -3.3244  -3.2388  -3.2230
+
+     the Fermi energy is    -4.6682 ev
+
+!    total energy              =    -773.43420203 Ry
+     Harris-Foulkes estimate   =    -773.43420403 Ry
+     estimated scf accuracy    <       0.00000061 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =   -4227.17704243 Ry
+     hartree contribution      =    2143.65172479 Ry
+     xc contribution           =    -304.40576787 Ry
+     ewald contribution        =    1614.49888944 Ry
+     smearing contrib. (-TS)   =      -0.00200596 Ry
+
+     convergence has been achieved in  35 iterations
+
+     negative rho (up, down):  1.360E-02 0.000E+00
+
+     Forces acting on atoms (cartesian axes, Ry/au):
+
+     atom    1 type  1   force =    -0.00211532   -0.01617781   -0.01148826
+     atom    2 type  1   force =    -0.00704010   -0.00945293   -0.01278593
+     atom    3 type  1   force =     0.01229194    0.01086902    0.00762414
+     atom    4 type  1   force =     0.00741608   -0.01693813    0.01142211
+     atom    5 type  1   force =     0.02335625    0.01372611    0.00666901
+     atom    6 type  1   force =     0.00204864   -0.01016371   -0.00399473
+     atom    7 type  1   force =     0.00400887    0.01360192   -0.01118402
+     atom    8 type  1   force =    -0.00035818   -0.00472172    0.01548065
+     atom    9 type  1   force =     0.00428314   -0.01921862   -0.00512969
+     atom   10 type  1   force =    -0.02289402    0.00129089    0.00412790
+     atom   11 type  1   force =    -0.00531425    0.00083854   -0.01507278
+     atom   12 type  2   force =    -0.00304265   -0.00563124    0.00195507
+     atom   13 type  2   force =    -0.00054645    0.01168014    0.00408483
+     atom   14 type  2   force =    -0.01927636    0.00451285    0.00449625
+     atom   15 type  2   force =    -0.00939056   -0.01615245   -0.01227292
+     atom   16 type  2   force =     0.01245382   -0.01793869   -0.02548397
+     atom   17 type  2   force =    -0.01978314    0.01435280    0.00423125
+     atom   18 type  2   force =     0.00116307   -0.01795428    0.00374035
+     atom   19 type  2   force =     0.01030143    0.01217368    0.01789454
+     atom   20 type  2   force =     0.00213045   -0.00479301    0.01721772
+     atom   21 type  2   force =     0.01337332    0.01050421   -0.00231269
+     atom   22 type  2   force =     0.00038937   -0.00603658    0.00066552
+     atom   23 type  2   force =    -0.02223105   -0.00376527   -0.00151285
+     atom   24 type  2   force =     0.00951312    0.01223379   -0.00589156
+     atom   25 type  2   force =     0.00036589    0.01958539    0.00062654
+     atom   26 type  2   force =    -0.01651203   -0.02653495   -0.02075417
+     atom   27 type  2   force =     0.01195171    0.00206077    0.00072308
+     atom   28 type  2   force =     0.00916166    0.00578203    0.00406988
+     atom   29 type  2   force =    -0.00483796    0.00297594   -0.01190805
+     atom   30 type  2   force =     0.02073686    0.01876676   -0.00683840
+     atom   31 type  2   force =     0.00976138    0.00156496    0.02370107
+     atom   32 type  2   force =    -0.01421965    0.00511230    0.01952149
+     atom   33 type  2   force =    -0.00714529    0.01384729   -0.00162136
+
+     Total force =     0.118317     Total SCF correction =     0.000805
+ 
+     init_run     :     13.34s CPU     14.04s WALL (       1 calls)
+     electrons    :    494.53s CPU    528.93s WALL (       1 calls)
+     forces       :      6.15s CPU      6.68s WALL (       1 calls)
+
+     Called by init_run:
+     wfcinit      :      3.59s CPU      3.70s WALL (       1 calls)
+     potinit      :      1.97s CPU      2.03s WALL (       1 calls)
+     hinit0       :      2.16s CPU      2.20s WALL (       1 calls)
+
+     Called by electrons:
+     c_bands      :    196.66s CPU    201.65s WALL (      35 calls)
+     sum_band     :    164.39s CPU    179.02s WALL (      35 calls)
+     v_of_rho     :     25.09s CPU     25.99s WALL (      36 calls)
+     newd         :     70.09s CPU     82.96s WALL (      36 calls)
+     mix_rho      :     35.49s CPU     36.70s WALL (      35 calls)
+
+     Called by c_bands:
+     init_us_2    :      3.01s CPU      3.05s WALL (      71 calls)
+     regterg      :    185.34s CPU    190.24s WALL (      35 calls)
+
+     Called by sum_band:
+     sum_band:bec :      0.02s CPU      0.02s WALL (      35 calls)
+     addusdens    :    109.55s CPU    123.31s WALL (      35 calls)
+
+     Called by *egterg:
+     h_psi        :    159.95s CPU    163.22s WALL (     114 calls)
+     s_psi        :      6.68s CPU      6.69s WALL (     114 calls)
+     g_psi        :      0.29s CPU      0.29s WALL (      78 calls)
+     rdiaghg      :      2.48s CPU      2.51s WALL (     113 calls)
+
+     Called by h_psi:
+     h_psi:pot    :    159.27s CPU    162.53s WALL (     114 calls)
+     h_psi:calbec :      6.76s CPU      6.82s WALL (     114 calls)
+     vloc_psi     :    145.63s CPU    148.81s WALL (     114 calls)
+     add_vuspsi   :      6.87s CPU      6.90s WALL (     114 calls)
+
+     General routines
+     calbec       :      9.89s CPU      9.97s WALL (     153 calls)
+     fft          :     33.12s CPU     34.45s WALL (     403 calls)
+     ffts         :     22.30s CPU     23.34s WALL (     739 calls)
+     fftw         :    146.38s CPU    149.99s WALL (   11172 calls)
+     interpolate  :      4.06s CPU      4.22s WALL (      36 calls)
+ 
+     Parallel routines
+     fft_scatt_xy :     33.08s CPU     33.27s WALL (   12314 calls)
+     fft_scatt_yz :     76.86s CPU     82.15s WALL (   12314 calls)
+ 
+     PWSCF        :   8m34.73s CPU   9m10.45s WALL
+
+ 
+   This run was terminated on:  11:21:59  20Oct2021            
+
+=------------------------------------------------------------------------------=
+   JOB DONE.
+=------------------------------------------------------------------------------=

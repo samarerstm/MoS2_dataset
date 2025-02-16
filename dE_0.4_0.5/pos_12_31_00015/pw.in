@@ -1,0 +1,83 @@
+ &control
+
+     calculation = 'scf',
+
+     restart_mode='from_scratch',
+
+     tprnfor=.true.
+
+     prefix='MoS2',
+
+     outdir='./tmp',
+
+     max_seconds = 84500
+
+     disk_io = 'none'
+    nstep= 15
+
+     pseudo_dir = '~/pseudo/',
+
+ /
+
+ &system
+
+    ibrav = 0,
+
+    nat =  12
+    ntyp = 2
+
+    ecutwfc = 45 , ecutrho = 360,
+
+    occupations='smearing', smearing='mv', degauss=0.02
+
+/
+
+  &electrons
+
+     diagonalization='david',
+
+     mixing_mode  =  'local-TF',
+
+     mixing_beta = 0.7
+
+   /
+
+   &ions
+
+     ion_dynamics = 'bfgs'
+
+  /
+
+   &cell
+
+     cell_dynamics = 'bfgs',
+
+   /
+
+ ATOMIC_SPECIES
+
+ Mo  95.5     Mo.pw91-n-van.UPF
+
+ S   32.065   S.pw91-van_ak.UPF
+
+K_POINTS {automatic}
+  4  4  2 0 0 0
+  
+CELL_PARAMETERS (angstrom)
+   6.361148762   0.109019760   0.068425198
+   3.010264058   5.613558722   0.067521371
+   0.672990853   0.126055597  13.318745513
+
+ATOMIC_POSITIONS (angstrom)
+Mo       0.627780132   0.127609787  12.561849626
+Mo       5.319585265   2.989677425  12.634641823
+Mo       6.966226759   6.158148986   0.802340061
+Mo       2.274638040   3.294060005   0.732557390
+S        6.070435009   1.842976972   1.035600383
+S        4.388114831   4.583522732   1.057228269
+S        2.744600949   1.688682230   2.414985829
+S        7.454653650   4.566343631   2.465180138
+S        6.482097415   1.797764432  10.983379784
+S        4.836001219   4.564845602  10.945998595
+S        3.188985655   1.683947759  12.318111649
+S        7.865004806   4.536752319  12.396909657
