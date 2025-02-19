@@ -1,0 +1,25 @@
+Data Organization
+
+The .yaml files are categorized into different folders based on their energy relative to the convex hull. For example, the folder dE_0.2_0.3 contains structures with energies between 0.2 and 0.3 eV/atom above the global minimum.
+
+Units
+
+All data are provided in atomic units:
+
+Energy: Hartree (Ha)
+
+Length: Bohr
+
+Force: Ha/Bohr
+
+Computational Details
+
+The dataset was generated using the PW91 exchange-correlation functional in combination with Vanderbilt ultra-soft pseudopotentials.
+
+Data Usage
+
+You are not required to use all the available data. Structures with energy differences greater than 0.5 eV/atom above the global minimum can be ignored.
+
+For any further inquiries, please contact the dataset provider.
+
+
